@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenDataDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">關於</string>
+    <string name="chart">圖表統計</string>
+    <string name="list">列表</string>
+    <string name="kind">動物種類</string>
+    <string name="age">動物年齡</string>
+    <string name="pkid">動物縣市</string>
+    <string name="open_data_content">主要使用行政院農業委員會資料開放平台(Open Data)來進行資料串接與使用\n\n開發者:Wade</string>
+</resources>
